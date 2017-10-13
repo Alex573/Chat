@@ -1,14 +1,3 @@
-/**
- * Java. Level 2. Lesson 7. Homework
- *  Simple operations with SQLite database
- *  Note:
- *  a) Download latest ver of sqlite-jdbc-(VER).jar from https://bitbucket.org/xerial/sqlite-jdbc/downloads
- *  b) Put this jar into \jre\lib\ext
- *  c) See also http://www.tutorialspoint.com/sqlite/sqlite_java.htm
- *
- * @author Sergey Iryupin
- * @version 29 July 2016
- */
 
 
 import java.sql.*;

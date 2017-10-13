@@ -1,9 +1,4 @@
-/**
- * Java. Simple test system
- *
- * @author Sergey Iryupin
- * @version 0.4 dated Sep 03, 2017
- */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

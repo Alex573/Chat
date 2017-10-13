@@ -1,15 +1,4 @@
-/**
- * Java. Level 2. Lesson 8
- * Simple chat client
- * To make jar file:
- *  create manifest.txt file with 1 line
- *      Main-Class: ChatClient
- *  jar -cvmf manifest.txt ChatClient.jar
- *      ChatClient*.class IConstants.class
- *
- * @author Sergey Iryupin
- * @version 0.2.1 dated Sep 23, 2017
- */
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
